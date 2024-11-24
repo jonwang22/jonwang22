@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻  About Me </h3>
 
-🤔 What do you like to do
+🤔 What do you like to do?
     I like to learn more about the cloud technologies as the industry is trending in that direction. I want to be able to apply all my experience and knowledge in this field and have impact wherever I go.
 
 🎓 What's your educational background?
